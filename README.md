@@ -6,7 +6,7 @@ This project is a data analytics report based on a **survey conducted to underst
 
 ## 🎯 Objective
 
-To explore viewing patterns, application preferences, and user behavior trends among OTT platform users, especially in the age group of 15–25.
+To explore viewing patterns, application preferences, and user behavior trends among OTT platform users
 
 ---
 
